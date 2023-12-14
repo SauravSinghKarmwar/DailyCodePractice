@@ -1,2 +1,3 @@
 # DailyCodePractice
-A collection of daily coding practice exercises and solutions to enhance coding skills.
+
+Welcome to DailyCodePractice, your personal repository for daily coding exercises and solutions. This repository is designed to help you consistently improve your coding skills by tackling a variety of problems on a daily basis.
